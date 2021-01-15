@@ -1,0 +1,5 @@
+E:\GitPractice\pubRep3\Solution1\DLl,\bin\Debug\DLl,.dll
+E:\GitPractice\pubRep3\Solution1\DLl,\bin\Debug\DLl,.pdb
+E:\GitPractice\pubRep3\Solution1\DLl,\obj\Debug\DLl,.csproj.CoreCompileInputs.cache
+E:\GitPractice\pubRep3\Solution1\DLl,\obj\Debug\DLl,.dll
+E:\GitPractice\pubRep3\Solution1\DLl,\obj\Debug\DLl,.pdb
